@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "\"Alka savarn\"",
+  "author": "\"Thrishall R\"",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
